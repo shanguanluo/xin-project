@@ -11,4 +11,6 @@
     <modules>
         <module>spring-dubbo</module>
     </modules>
+
+    <description>aaaaa</description>
 </project>
